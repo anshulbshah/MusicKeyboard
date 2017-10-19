@@ -1,2 +1,3 @@
-# MusicKeyboard
-A small fun project to play musical notes
+# Music Keyboard
+A small fun experiment to play musical notes.
+Made using Unity3D.
